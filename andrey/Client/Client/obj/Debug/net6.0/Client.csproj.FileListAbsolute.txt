@@ -1,0 +1,15 @@
+C:\Users\aleks\source\repos\andrey\Client\Client\bin\Debug\net6.0\Client.exe
+C:\Users\aleks\source\repos\andrey\Client\Client\bin\Debug\net6.0\Client.deps.json
+C:\Users\aleks\source\repos\andrey\Client\Client\bin\Debug\net6.0\Client.runtimeconfig.json
+C:\Users\aleks\source\repos\andrey\Client\Client\bin\Debug\net6.0\Client.dll
+C:\Users\aleks\source\repos\andrey\Client\Client\bin\Debug\net6.0\ref\Client.dll
+C:\Users\aleks\source\repos\andrey\Client\Client\bin\Debug\net6.0\Client.pdb
+C:\Users\aleks\source\repos\andrey\Client\Client\obj\Debug\net6.0\Client.csproj.AssemblyReference.cache
+C:\Users\aleks\source\repos\andrey\Client\Client\obj\Debug\net6.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\source\repos\andrey\Client\Client\obj\Debug\net6.0\Client.AssemblyInfoInputs.cache
+C:\Users\aleks\source\repos\andrey\Client\Client\obj\Debug\net6.0\Client.AssemblyInfo.cs
+C:\Users\aleks\source\repos\andrey\Client\Client\obj\Debug\net6.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\aleks\source\repos\andrey\Client\Client\obj\Debug\net6.0\Client.dll
+C:\Users\aleks\source\repos\andrey\Client\Client\obj\Debug\net6.0\ref\Client.dll
+C:\Users\aleks\source\repos\andrey\Client\Client\obj\Debug\net6.0\Client.pdb
+C:\Users\aleks\source\repos\andrey\Client\Client\obj\Debug\net6.0\Client.genruntimeconfig.cache
